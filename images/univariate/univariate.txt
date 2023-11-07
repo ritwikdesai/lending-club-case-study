@@ -1,8 +1,0 @@
-Univariate - Categorical Variable
-1.Loan_status - Fully Paid customers are almost 6 times more than charged off.
-2.Grade - Higher Grade tends to take more loan while B grade is the highest number of loan takers.
-3.Experience Level (Derived Metrics) - Junior level Employees are more likely to take loans.
-4.Home Ownership - People living in rent tends to take more loan
-5.Issue Year - Over the years, more people tends to take loan from the company to the latest date.
-6.Annual Income Range - Medium Salary People (25-50K) are more likely to take loans.
-7.Loan Amount Range - Most people tends to take less amount of loan.
