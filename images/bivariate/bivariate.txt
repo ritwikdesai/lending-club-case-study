@@ -1,0 +1,5 @@
+Bivariate Analysis
+1.interest Rate Range - As the interest rate increases the rate of defaulters increases. From the graph, we can observe that there is huge number of loan defaulter when it is 15% and above.
+2.Loan to Income Ratio - From the above graph, we can conclude that people who tends to come in 40%+ is a risky applicant.
+3.Grade - Grade G is the most riskier applicant, and with the median loan amount of almost 15-20K which is most highest among all grades.
+4.Purpose - Ratio of defaulties of small business is the most. 75 percentile is most for the small business and it may be risk to the company.
